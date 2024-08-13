@@ -45,7 +45,7 @@ controls.enablePan = false;
 controls.enableZoom = false;
 controls.autoRotate = true;
 
-
+//testing
 //Resize
 window.addEventListener('resize', () => {
   sizes.width = window.innerWidth;
